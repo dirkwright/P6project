@@ -3,8 +3,7 @@
 #include "functions.h"
 /* - - - - - - - -  students - - - - - - - -
 Dirk Wright
-James knowles
-
+James Knowles
 
 
 -- - - - - - - - - - - - - -  - - - - - - - - */

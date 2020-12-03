@@ -3,7 +3,7 @@
 #include "functions.h"
 /* - - - - - - - -  students - - - - - - - -
 Dirk Wright
-
+Nate Weitzel-King
 
 
 -- - - - - - - - - - - - - -  - - - - - - - - */

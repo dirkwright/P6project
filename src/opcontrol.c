@@ -2,7 +2,7 @@
 #include "main.h"
 #include "functions.h"
 /* - - - - - - - -  students - - - - - - - -
-
+Dirk Wright
 
 
 

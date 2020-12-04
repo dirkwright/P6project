@@ -19,7 +19,7 @@ void armWave(int numberOfWaves)
 void spin(int numberOfSpins)
 {
   int loop = 0;
-  while (loop < numberOfWaves)
+  while (loop < numberOfSpins)
   {
     motorSet(1, 100);
     motorSet(10, 100);

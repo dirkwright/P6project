@@ -16,6 +16,29 @@ void armWave(int numberOfWaves)
   }
   motorSet(5, 0);
 }
+<<<<<<< HEAD
+
+void roboDance(int danceTime){
+int loop = 0
+while (loop < danceTime)
+{
+motorSet(1, 500);
+delay(500);
+motorSet(10, 1000);
+delay(500);
+motorSet(1, 500);
+delay(500);
+motorSet(1, -200);
+motorSet(10, -200);
+delay(100);
+motorSet(1, 200);
+motorSet(10, 200);
+loop++;
+}
+motorSet(1, 0);
+motorSet(10, 0);
+}
+=======
 void spin(int numberOfSpins)
 {
   int loop = 0;
@@ -31,3 +54,4 @@ void spin(int numberOfSpins)
   }
   motorSet(5, 0);
 }
+>>>>>>> 127537a8f65c59239f5f6d0e9add3f8f12bac3bc

@@ -1,4 +1,4 @@
-ject//include commands for all .h function files
+//include commands for all .h function files
 #include "main.h"
 #include "functions.h"
 /* - - - - - - - -  students - - - - - - - -
@@ -11,7 +11,7 @@ Aidan Alcala
 Jaden Jessup
 Alex San Martin
 Diego R
-Rohun Barot
+Rohun B
 -- - - - - - - - - - - - - -  - - - - - - - - */
 
 

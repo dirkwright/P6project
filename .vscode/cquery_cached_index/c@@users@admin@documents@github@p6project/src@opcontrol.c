@@ -13,7 +13,6 @@ Alex San Martin
 Diego R
 Rohun B
 Tommy R
-Mekhi C
 -- - - - - - - - - - - - - -  - - - - - - - - */
 
 

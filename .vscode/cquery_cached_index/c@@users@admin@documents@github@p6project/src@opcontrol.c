@@ -44,6 +44,9 @@ Digital Sensors
 	8 - Shoulder Encoder
 	9 - Shoulder Encoder
 	10
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 void operatorControl() {
@@ -51,4 +54,3 @@ void operatorControl() {
 		printf("Hellow P6 User\n");
 		delay(20);
 	}
-}

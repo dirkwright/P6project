@@ -24,10 +24,10 @@
             "-fdiagnostics-color",
             "-std=gnu99",
             "-o",
-            "C:/Users/NWK/AppData/Local/Temp/tmpsbpwe_0o/opcontrol.c.o",
+            "C:/Users/SCOTTJ~1/AppData/Local/Temp/tmpcr2q674z/opcontrol.c.o",
             "src\\opcontrol.c"
         ],
-        "directory": "C:\\Users\\NWK\\documents\\P6project",
+        "directory": "C:\\Users\\Scott Jessup\\Desktop\\Jadens Homework\\Pros Projects\\github\\P6project",
         "file": "src\\opcontrol.c"
     },
     {
@@ -55,10 +55,10 @@
             "-fdiagnostics-color",
             "-std=gnu99",
             "-o",
-            "C:/Users/NWK/AppData/Local/Temp/tmpsbpwe_0o/init.c.o",
+            "C:/Users/SCOTTJ~1/AppData/Local/Temp/tmp8p0z_z1d/init.c.o",
             "src\\init.c"
         ],
-        "directory": "C:\\Users\\NWK\\documents\\P6project",
+        "directory": "C:\\Users\\Scott Jessup\\Desktop\\Jadens Homework\\Pros Projects\\github\\P6project",
         "file": "src\\init.c"
     },
     {
@@ -86,10 +86,10 @@
             "-fdiagnostics-color",
             "-std=gnu99",
             "-o",
-            "C:/Users/NWK/AppData/Local/Temp/tmpsbpwe_0o/auto.c.o",
+            "C:/Users/SCOTTJ~1/AppData/Local/Temp/tmp8p0z_z1d/auto.c.o",
             "src\\auto.c"
         ],
-        "directory": "C:\\Users\\NWK\\documents\\P6project",
+        "directory": "C:\\Users\\Scott Jessup\\Desktop\\Jadens Homework\\Pros Projects\\github\\P6project",
         "file": "src\\auto.c"
     }
 ]

@@ -58,19 +58,5 @@ void spin(int numberOfSpins)
 void stopAll(){//Aidan Alcala
   for(int i=1; i<=10; i++){
     motorStop(i);
-}
-}
-void ClawSpin(int numberOfspins)
-{
-  int loop == 0;
-while (loop < numberOfspins)
-  motorSet(3, 127);
-  motorSet(4, 127);
-  delay(7000);
-  motorSet(3, -100);
-  motorSet(4, -100);
-  delay(3000);
-  motorSet(3, 0);
-  motorSet(4, 0);
-loop++;
+  }
 }
